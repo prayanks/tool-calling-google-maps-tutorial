@@ -30,8 +30,8 @@ The system uses function calling to let the LLM decide when to use mapping tools
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd maps-llm-tool-calling
+   git clone https://github.com/prayanks/tool-calling-google-maps-tutorial.git
+   cd tool-calling-google-maps-tutorial
    ```
 
 2. **Create virtual environment**
